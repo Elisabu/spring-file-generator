@@ -1,17 +1,17 @@
 version: "1"
 services:
-  # mongodb:
-  #   image: "mongo:latest"
-  #   ports:
-  #     - "27017:27017"
-  app:
-    build: .
-    image: bx-srv-retiro-generate-file:latest
-    container_name: bx-srv-retiro-generate-file
-    deploy:
-      resources:
-        limits:
-          cpus: "0.4" # Limit CPU to 0.4 CPU cores
-          memory: "380M" # Limit memory to 380MB
+  mongodb:
+    image: "mongo:latest"
     ports:
-      - "8080:8080"
+      - "27017:27017"
+  # app:
+  #   build: .
+  #   image: bx-srv-retiro-generate-file:latest
+  #   container_name: bx-srv-retiro-generate-file
+  #   deploy:
+  #     resources:
+  #       limits:
+  #         cpus: "0.4" # Limit CPU to 0.4 CPU cores
+  #         memory: "380M" # Limit memory to 380MB
+  #   ports:
+  #     - "8080:8080"

@@ -25,9 +25,30 @@
         font-weight: bold;
       }
 
-      /* div {
-        border: 1px solid lightgray;
-      } */
+      .data-box {
+        border-style: solid;
+        border-color: #d5d7d6;
+        border-width: 1px;
+        border-radius: 5px;
+        margin: 3%;
+      }
+
+      .table-row td {
+        border-top-style: solid;
+        border-top-color: #d5d7d6;
+        border-top-width: 1px;
+      }
+
+      @page {
+          @bottom-right {
+              content: counter(page) " de " counter(pages);
+              border-top: solid 1px #bbb; 
+              width: 100%;
+              font-size: 12px;
+              padding: 5px 5px 0;
+          }
+      }
+
     </style>
   </head>
 
@@ -71,11 +92,9 @@
     </div>
 
     <div
+      class="data-box"
       style="
-        border-radius: 5px;
         padding: 3%;
-        border: 1px solid lightgray;
-        margin: 3%;
       "
     >
       <h1 style="font-size: 18px; margin-bottom: 1%">Manifiesto Retiros</h1>
@@ -104,18 +123,18 @@
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Ruta</td>
-          <td>{{courier.route}}</td>
+          <td> <span th:text="${courier.route}"></span></td>
           <td style="font-size: 14px"><strong>Cantidad de OS</strong></td>
           <td style="font-size: 14px">
-            <strong>{{carga.quantity_os}}</strong>
+            <strong><span th:text="${carga.quantity_os}"></span></strong>
           </td>
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Patente</td>
-          <td>{{courier.patent}}</td>
+          <td><span th:text="${courier.patent}"></span></td>
           <td style="font-size: 14px"><strong>Cantidad de Piezas</strong></td>
           <td style="font-size: 14px">
-            <strong>{{carga.quantity_packages}}</strong>
+            <strong><span th:text="${carga.quantity_packages}"></span></strong>
           </td>
         </tr>
         <tr>
@@ -124,23 +143,21 @@
           <!-- <td style="color: #575757; font-weight: bold;">Nombre Courier</td>
           <td>{{courier.name}}</td> -->
           <td style="color: #575757; font-weight: bold">Nro. de Retiro</td>
-          <td>{{retiro_id}}</td>
+          <td><span th:text="${retiro_id}"></span></td>
         </tr>
         <tr>
           <td></td>
           <td></td>
           <td style="color: #575757; font-weight: bold">Fecha/Hora</td>
-          <td>{{carga.date}}</td>
+          <td><span th:text="${carga.date}"></span></td>
         </tr>
       </table>
     </div>
 
     <div
+      class="data-box"
       style="
-        border-radius: 5px;
         padding: 3%;
-        border: 1px solid lightgray;
-        margin: 3%;
       "
     >
       <table
@@ -161,19 +178,19 @@
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Nombre Remitente</td>
-          <td>{{client.client_name}}</td>
+          <td><span th:text="${client.client_name}"></span></td>
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Nombre Seller</td>
-          <td>{{client.seller_name}}</td>
+          <td><span th:text="${client.seller_name}"></span></td>
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Cuenta</td>
-          <td>{{client.account}}</td>
+          <td><span th:text="${client.account}"></span></td>
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Dirección Remitente</td>
-          <td>{{client.address}}</td>
+          <td><span th:text="${client.address}"></span>{{client.address}}</td>
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Ventana Horaria</td>
@@ -181,25 +198,23 @@
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Quién Entrega</td>
-          <td>{{client.name_person_charge}}</td>
+          <td><span th:text="${client.name_person_charge}"></span></td>
         </tr>
         <tr>
           <td style="color: #575757; font-weight: bold">Firma</td>
         </tr>
       </table>
 
-      {{#if client.firma}}
-      <div style="margin-top: -20px; margin-left: 30%">
+      <div th:if="${client.firma}" style="margin-top: -20px; margin-left: 30%">
         <img
-          src="{{{client.firma}}}"
+          th:src="${client.firma}"
           alt=""
           style="max-width: 180px; height: 65px"
         />
       </div>
-      {{/if}}
     </div>
-
-    <div style="border-radius: 5px; border: 1px solid lightgray; margin: 3%">
+    
+    <div class="data-box">
       <table
         aria-describedby="Información de Os"
         style="border-collapse: collapse; width: 100%; text-align: center"
@@ -219,16 +234,14 @@
           <td style="width: 45%"><strong>Número de Referencia</strong></td>
         </tr>
 
-        {{#each os_list}}
-        <tr style="border-top: 1px solid lightgray">
-          <td>
-            <strong><span style="color: #1f3b99">{{this.os_id}}</span></strong>
+        <tr th:each="os: ${os_list}" class="table-row">
+          <td >
+            <strong><span th:text="${os.os_id}" style="color: #1f3b99"></span></strong>
           </td>
-          <td>{{this.emitted_packages}}</td>
-          <td>{{this.withdrawn_packages}}</td>
-          <td>{{this.reference}}</td>
+          <td th:text="${os.emitted_packages}"></td>
+          <td th:text="${os.withdrawn_packages}"></td>
+          <td th:text="${os.reference}"></td>
         </tr>
-        {{/each}}
       </table>
     </div>
   </body>
