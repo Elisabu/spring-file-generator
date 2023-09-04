@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manifiesto</title>
+
+    <style>
+      * {
+        margin: 0px;
+      }
+      html {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+      }
+
+      td {
+        padding: 6px 2px;
+      }
+
+      h3 {
+        color: #1f3b99;
+        font-size: medium;
+        font-weight: bold;
+      }
+
+      /* div {
+        border: 1px solid lightgray;
+      } */
+    </style>
+  </head>
+
+  <body style="margin: 5%">
+    <div style="margin: 3%; display: flex; justify-content: space-between">
+      <!-- <svg
+        width="96"
+        height="64"
+        viewBox="0 0 96 64"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+        <rect width="96" height="64" fill="url(#pattern0)" />
+        <defs>
+          <pattern
+            id="pattern0"
+            patternContentUnits="objectBoundingBox"
+            width="1"
+            height="1"
+          >
+            <use
+              xlink:href="#image0_85_216"
+              transform="translate(-0.00222222) scale(0.00444444 0.00666667)"
+            />
+          </pattern> -->
+      <image
+        id="image0_85_216"
+        width="96"
+        height="64"
+        src="data:image/png;base64,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"
+      />
+      <!-- </defs>
+      </svg> -->
+
+      <!-- <div style="display:flex; flex-direction:column">
+        <img src="" alt="código de barra aquí" style="width
+        :100%; height:50px; background: lightblue">
+        <p>{{retiro_id}}</p>
+      </div> -->
+    </div>
+
+    <div
+      style="
+        border-radius: 5px;
+        padding: 3%;
+        border: 1px solid lightgray;
+        margin: 3%;
+      "
+    >
+      <h1 style="font-size: 18px; margin-bottom: 1%">Manifiesto Retiros</h1>
+
+      <p>Manifiesto ID: <span th:text="${document_id}"></span></p>
+
+      <table
+        aria-describedby="Información de manifiesto retiro"
+        style="border-collapse: collapse; width: 100%; margin-top: 3%"
+      >
+        <tr>
+          <th scope="col"></th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+        <tr>
+          <td style="padding-bottom: 10px; width: 20%">
+            <h3>Datos Courier</h3>
+          </td>
+          <td style="width: 25%"></td>
+          <td style="padding-bottom: 10px; width: 25%">
+            <h3>Datos de la Carga</h3>
+          </td>
+          <td style="width: 30%"></td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Ruta</td>
+          <td>{{courier.route}}</td>
+          <td style="font-size: 14px"><strong>Cantidad de OS</strong></td>
+          <td style="font-size: 14px">
+            <strong>{{carga.quantity_os}}</strong>
+          </td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Patente</td>
+          <td>{{courier.patent}}</td>
+          <td style="font-size: 14px"><strong>Cantidad de Piezas</strong></td>
+          <td style="font-size: 14px">
+            <strong>{{carga.quantity_packages}}</strong>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <!-- <td style="color: #575757; font-weight: bold;">Nombre Courier</td>
+          <td>{{courier.name}}</td> -->
+          <td style="color: #575757; font-weight: bold">Nro. de Retiro</td>
+          <td>{{retiro_id}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td style="color: #575757; font-weight: bold">Fecha/Hora</td>
+          <td>{{carga.date}}</td>
+        </tr>
+      </table>
+    </div>
+
+    <div
+      style="
+        border-radius: 5px;
+        padding: 3%;
+        border: 1px solid lightgray;
+        margin: 3%;
+      "
+    >
+      <table
+        aria-describedby="Información venta"
+        style="border-collapse: collapse; width: 100%"
+      >
+        <tr>
+          <th scope="col"></th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+        <tr>
+          <td style="padding-bottom: 10px; width: 30%">
+            <h3>Datos del Remitente</h3>
+          </td>
+          <td style="width: 70%"></td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Nombre Remitente</td>
+          <td>{{client.client_name}}</td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Nombre Seller</td>
+          <td>{{client.seller_name}}</td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Cuenta</td>
+          <td>{{client.account}}</td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Dirección Remitente</td>
+          <td>{{client.address}}</td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Ventana Horaria</td>
+          <td>14:00 / 17:00 hrs.</td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Quién Entrega</td>
+          <td>{{client.name_person_charge}}</td>
+        </tr>
+        <tr>
+          <td style="color: #575757; font-weight: bold">Firma</td>
+        </tr>
+      </table>
+
+      {{#if client.firma}}
+      <div style="margin-top: -20px; margin-left: 30%">
+        <img
+          src="{{{client.firma}}}"
+          alt=""
+          style="max-width: 180px; height: 65px"
+        />
+      </div>
+      {{/if}}
+    </div>
+
+    <div style="border-radius: 5px; border: 1px solid lightgray; margin: 3%">
+      <table
+        aria-describedby="Información de Os"
+        style="border-collapse: collapse; width: 100%; text-align: center"
+      >
+        <tr>
+          <th scope="col"></th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+        <tr style="text-align: center">
+          <td style="width: 20%; padding: 10px">
+            <strong>Ordenes de Servicio</strong>
+          </td>
+          <td style="width: 15%"><strong>Piezas Emitidas</strong></td>
+          <td style="width: 15%"><strong>Piezas Retiradas</strong></td>
+          <td style="width: 45%"><strong>Número de Referencia</strong></td>
+        </tr>
+
+        {{#each os_list}}
+        <tr style="border-top: 1px solid lightgray">
+          <td>
+            <strong><span style="color: #1f3b99">{{this.os_id}}</span></strong>
+          </td>
+          <td>{{this.emitted_packages}}</td>
+          <td>{{this.withdrawn_packages}}</td>
+          <td>{{this.reference}}</td>
+        </tr>
+        {{/each}}
+      </table>
+    </div>
+  </body>
+</html>

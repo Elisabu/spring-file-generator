@@ -1,0 +1,1561 @@
+{
+  "courier": {
+    "patent": "DWPB38",
+    "route": "507-SCL",
+    "name": "DW.PB38-TRANSPORTES CARPE SPA                             "
+  },
+  "os_list": [
+    {
+      "reference": "1136241058800",
+      "emitted_packages": "1",
+      "os_id": "6934331176",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136263021946",
+      "emitted_packages": "1",
+      "os_id": "6934333044",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136262997647",
+      "emitted_packages": "1",
+      "os_id": "6934333954",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271739194",
+      "emitted_packages": "1",
+      "os_id": "6934335940",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136292404038",
+      "emitted_packages": "1",
+      "os_id": "6934337152",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136191042528",
+      "emitted_packages": "1",
+      "os_id": "6934349380",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136202841184",
+      "emitted_packages": "1",
+      "os_id": "6934349564",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136200963246",
+      "emitted_packages": "1",
+      "os_id": "6934351222",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272545703",
+      "emitted_packages": "1",
+      "os_id": "6934360053",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136240630029",
+      "emitted_packages": "1",
+      "os_id": "6934360333",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271457148",
+      "emitted_packages": "1",
+      "os_id": "6934362971",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136280473711",
+      "emitted_packages": "1",
+      "os_id": "6934364356",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136260143618",
+      "emitted_packages": "1",
+      "os_id": "6934365303",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136283436036",
+      "emitted_packages": "1",
+      "os_id": "6934366703",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282862649",
+      "emitted_packages": "1",
+      "os_id": "6934367650",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271093971",
+      "emitted_packages": "1",
+      "os_id": "6934367790",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136382300763",
+      "emitted_packages": "1",
+      "os_id": "6934372056",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136371747184",
+      "emitted_packages": "1",
+      "os_id": "6934373471",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136203438531",
+      "emitted_packages": "1",
+      "os_id": "6934381042",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136273552237",
+      "emitted_packages": "1",
+      "os_id": "6934387412",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136242312201",
+      "emitted_packages": "1",
+      "os_id": "6934388171",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231473877",
+      "emitted_packages": "1",
+      "os_id": "6934390190",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272368001",
+      "emitted_packages": "1",
+      "os_id": "6934395554",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136283182736",
+      "emitted_packages": "1",
+      "os_id": "6934396011",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282309819",
+      "emitted_packages": "1",
+      "os_id": "6934397820",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136283450041",
+      "emitted_packages": "1",
+      "os_id": "6934398380",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136362792048",
+      "emitted_packages": "1",
+      "os_id": "6934399006",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136380962287",
+      "emitted_packages": "1",
+      "os_id": "6934406544",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136383041593",
+      "emitted_packages": "1",
+      "os_id": "6934407373",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136392743516",
+      "emitted_packages": "1",
+      "os_id": "6934409624",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136220742254",
+      "emitted_packages": "1",
+      "os_id": "6934414631",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136220393485",
+      "emitted_packages": "1",
+      "os_id": "6934417512",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136252609953",
+      "emitted_packages": "1",
+      "os_id": "6934420371",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136250286189",
+      "emitted_packages": "1",
+      "os_id": "6934421874",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136243292433",
+      "emitted_packages": "1",
+      "os_id": "6934422353",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136250346261",
+      "emitted_packages": "1",
+      "os_id": "6934424840",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136250218490",
+      "emitted_packages": "1",
+      "os_id": "6934424906",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271505409",
+      "emitted_packages": "1",
+      "os_id": "6934426730",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136263511716",
+      "emitted_packages": "1",
+      "os_id": "6934426866",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136202000995",
+      "emitted_packages": "1",
+      "os_id": "6934443235",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136230004702",
+      "emitted_packages": "1",
+      "os_id": "6934449443",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136270527847",
+      "emitted_packages": "1",
+      "os_id": "6934450622",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136252962766",
+      "emitted_packages": "1",
+      "os_id": "6934451753",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136243107212",
+      "emitted_packages": "1",
+      "os_id": "6934452350",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271118009",
+      "emitted_packages": "1",
+      "os_id": "6934455743",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136261600236",
+      "emitted_packages": "1",
+      "os_id": "6934456196",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136261791799",
+      "emitted_packages": "1",
+      "os_id": "6934456885",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282196229",
+      "emitted_packages": "1",
+      "os_id": "6934457434",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136232971497",
+      "emitted_packages": "1",
+      "os_id": "6934476382",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136220831587",
+      "emitted_packages": "1",
+      "os_id": "6934478600",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136263055201",
+      "emitted_packages": "1",
+      "os_id": "6934484126",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136280924644",
+      "emitted_packages": "1",
+      "os_id": "6934486322",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136260145870",
+      "emitted_packages": "1",
+      "os_id": "6934487475",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136382844158",
+      "emitted_packages": "1",
+      "os_id": "6934489483",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136193179372",
+      "emitted_packages": "1",
+      "os_id": "6934501652",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136203377621",
+      "emitted_packages": "1",
+      "os_id": "6934502654",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136242430142",
+      "emitted_packages": "1",
+      "os_id": "6934507241",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136220536678",
+      "emitted_packages": "1",
+      "os_id": "6934509396",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136281141491",
+      "emitted_packages": "1",
+      "os_id": "6934512852",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136253541973",
+      "emitted_packages": "1",
+      "os_id": "6934516142",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136260816188",
+      "emitted_packages": "1",
+      "os_id": "6934517170",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282823664",
+      "emitted_packages": "1",
+      "os_id": "6934518010",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136281904124",
+      "emitted_packages": "1",
+      "os_id": "6934518065",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136331402146",
+      "emitted_packages": "1",
+      "os_id": "6934521882",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136201903649",
+      "emitted_packages": "1",
+      "os_id": "6934534994",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136200690925",
+      "emitted_packages": "1",
+      "os_id": "6934535775",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282980341",
+      "emitted_packages": "1",
+      "os_id": "6934547454",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136262851608",
+      "emitted_packages": "1",
+      "os_id": "6934548401",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136281991851",
+      "emitted_packages": "1",
+      "os_id": "6934550350",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136192858643",
+      "emitted_packages": "1",
+      "os_id": "6934562821",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136242950646",
+      "emitted_packages": "1",
+      "os_id": "6934569946",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136241290146",
+      "emitted_packages": "1",
+      "os_id": "6934575045",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136253378681",
+      "emitted_packages": "1",
+      "os_id": "6934576622",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136261194469",
+      "emitted_packages": "1",
+      "os_id": "6934578490",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136380568948",
+      "emitted_packages": "1",
+      "os_id": "6934588920",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136192449703",
+      "emitted_packages": "1",
+      "os_id": "6934593971",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272097049",
+      "emitted_packages": "1",
+      "os_id": "6934606011",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136290266156",
+      "emitted_packages": "1",
+      "os_id": "6934607886",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136263452200",
+      "emitted_packages": "1",
+      "os_id": "6934608306",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136292412440",
+      "emitted_packages": "1",
+      "os_id": "6934609732",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136291880600",
+      "emitted_packages": "1",
+      "os_id": "6934609824",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282266091",
+      "emitted_packages": "1",
+      "os_id": "6934610012",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136281543589",
+      "emitted_packages": "1",
+      "os_id": "6934610830",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136392984508",
+      "emitted_packages": "1",
+      "os_id": "6934620976",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231410722",
+      "emitted_packages": "1",
+      "os_id": "6934632810",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272737806",
+      "emitted_packages": "1",
+      "os_id": "6934634825",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136262936240",
+      "emitted_packages": "1",
+      "os_id": "6934636122",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282826211",
+      "emitted_packages": "1",
+      "os_id": "6934636903",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136292066364",
+      "emitted_packages": "1",
+      "os_id": "6934639880",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136283146757",
+      "emitted_packages": "1",
+      "os_id": "6934641604",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136190047510",
+      "emitted_packages": "1",
+      "os_id": "6934653471",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136203012845",
+      "emitted_packages": "1",
+      "os_id": "6934655921",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136252104281",
+      "emitted_packages": "1",
+      "os_id": "6934658076",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136363235014",
+      "emitted_packages": "1",
+      "os_id": "6934662081",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136263029943",
+      "emitted_packages": "1",
+      "os_id": "6934662335",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231114655",
+      "emitted_packages": "1",
+      "os_id": "6934663584",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136273458063",
+      "emitted_packages": "1",
+      "os_id": "6934669803",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136260460971",
+      "emitted_packages": "1",
+      "os_id": "6934669836",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136261282114",
+      "emitted_packages": "1",
+      "os_id": "6934669851",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136192721703",
+      "emitted_packages": "1",
+      "os_id": "6934683685",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136242527868",
+      "emitted_packages": "1",
+      "os_id": "6934687793",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136242409115",
+      "emitted_packages": "1",
+      "os_id": "6934692321",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231678423",
+      "emitted_packages": "1",
+      "os_id": "6934693636",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136230021658",
+      "emitted_packages": "1",
+      "os_id": "6934693850",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136260276140",
+      "emitted_packages": "1",
+      "os_id": "6934694163",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136253170268",
+      "emitted_packages": "1",
+      "os_id": "6934696274",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136253485716",
+      "emitted_packages": "1",
+      "os_id": "6934696860",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136200203800",
+      "emitted_packages": "1",
+      "os_id": "6934713951",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136201848570",
+      "emitted_packages": "1",
+      "os_id": "6934716224",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136221393811",
+      "emitted_packages": "1",
+      "os_id": "6934716272",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136212405601",
+      "emitted_packages": "1",
+      "os_id": "6934718420",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231979421",
+      "emitted_packages": "1",
+      "os_id": "6934722524",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231217821",
+      "emitted_packages": "1",
+      "os_id": "6934724650",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136240819325",
+      "emitted_packages": "1",
+      "os_id": "6934726643",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282036867",
+      "emitted_packages": "1",
+      "os_id": "6934727376",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136251250995",
+      "emitted_packages": "1",
+      "os_id": "6934727656",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136283308937",
+      "emitted_packages": "1",
+      "os_id": "6934730132",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136193208959",
+      "emitted_packages": "1",
+      "os_id": "6934745285",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231039271",
+      "emitted_packages": "1",
+      "os_id": "6934749415",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136200307933",
+      "emitted_packages": "1",
+      "os_id": "6934749581",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272866504",
+      "emitted_packages": "1",
+      "os_id": "6934754993",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136193496805",
+      "emitted_packages": "1",
+      "os_id": "6934774700",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136202470465",
+      "emitted_packages": "1",
+      "os_id": "6934778395",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136241215103",
+      "emitted_packages": "1",
+      "os_id": "6934783181",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136252426015",
+      "emitted_packages": "1",
+      "os_id": "6934785631",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136252213129",
+      "emitted_packages": "1",
+      "os_id": "6934787016",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136281818451",
+      "emitted_packages": "1",
+      "os_id": "6934789061",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136280481388",
+      "emitted_packages": "1",
+      "os_id": "6934789794",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282882254",
+      "emitted_packages": "1",
+      "os_id": "6934791426",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136270798094",
+      "emitted_packages": "1",
+      "os_id": "6934791636",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136290718950",
+      "emitted_packages": "1",
+      "os_id": "6934792432",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136351449779",
+      "emitted_packages": "1",
+      "os_id": "6934793014",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136393009796",
+      "emitted_packages": "1",
+      "os_id": "6934804236",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136240029017",
+      "emitted_packages": "1",
+      "os_id": "6934812334",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136232361460",
+      "emitted_packages": "1",
+      "os_id": "6934812872",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136250530399",
+      "emitted_packages": "1",
+      "os_id": "6934813465",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136221152710",
+      "emitted_packages": "1",
+      "os_id": "6934813686",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136221352100",
+      "emitted_packages": "1",
+      "os_id": "6934813955",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136231585436",
+      "emitted_packages": "1",
+      "os_id": "6934814600",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136261467288",
+      "emitted_packages": "1",
+      "os_id": "6934818310",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136292084986",
+      "emitted_packages": "1",
+      "os_id": "6934819360",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136282087191",
+      "emitted_packages": "1",
+      "os_id": "6934819544",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272314143",
+      "emitted_packages": "1",
+      "os_id": "6934819765",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136250250743",
+      "emitted_packages": "1",
+      "os_id": "6934819791",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136251049111",
+      "emitted_packages": "1",
+      "os_id": "6934820200",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271288253",
+      "emitted_packages": "1",
+      "os_id": "6934820421",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271775817",
+      "emitted_packages": "1",
+      "os_id": "6934821740",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136273246226",
+      "emitted_packages": "1",
+      "os_id": "6934822020",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136200828773",
+      "emitted_packages": "1",
+      "os_id": "6934840625",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136271229899",
+      "emitted_packages": "1",
+      "os_id": "6934847706",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136371522350",
+      "emitted_packages": "1",
+      "os_id": "6934860004",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136371586001",
+      "emitted_packages": "1",
+      "os_id": "6934860450",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136370888803",
+      "emitted_packages": "1",
+      "os_id": "6934861732",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136203240464",
+      "emitted_packages": "1",
+      "os_id": "6934867321",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136202948640",
+      "emitted_packages": "1",
+      "os_id": "6934868931",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136232026285",
+      "emitted_packages": "1",
+      "os_id": "6934871543",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136510318525",
+      "emitted_packages": "1",
+      "os_id": "6954394926",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136262511887",
+      "emitted_packages": "1",
+      "os_id": "6954395173",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136251269068",
+      "emitted_packages": "1",
+      "os_id": "6954425446",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136480985934",
+      "emitted_packages": "1",
+      "os_id": "6954449224",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136480762990",
+      "emitted_packages": "1",
+      "os_id": "6954449865",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136510809915",
+      "emitted_packages": "1",
+      "os_id": "6954457031",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136510837408",
+      "emitted_packages": "1",
+      "os_id": "6954457742",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136222374858",
+      "emitted_packages": "1",
+      "os_id": "6954462863",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136493577818",
+      "emitted_packages": "1",
+      "os_id": "6954483185",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136513270073",
+      "emitted_packages": "1",
+      "os_id": "6954486136",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136522782590",
+      "emitted_packages": "1",
+      "os_id": "6954487035",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136510785525",
+      "emitted_packages": "1",
+      "os_id": "6954487433",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136480113193",
+      "emitted_packages": "1",
+      "os_id": "6954509542",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136490287607",
+      "emitted_packages": "1",
+      "os_id": "6954512412",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136272108796",
+      "emitted_packages": "1",
+      "os_id": "6954519213",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136491541101",
+      "emitted_packages": "1",
+      "os_id": "6954550271",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136523491415",
+      "emitted_packages": "1",
+      "os_id": "6954558450",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136211551553",
+      "emitted_packages": "1",
+      "os_id": "6954631014",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136220182362",
+      "emitted_packages": "1",
+      "os_id": "6955086320",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161747892",
+      "emitted_packages": "1",
+      "os_id": "6960028121",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136190645917",
+      "emitted_packages": "1",
+      "os_id": "6960064580",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161373729",
+      "emitted_packages": "1",
+      "os_id": "6960089205",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136171289489",
+      "emitted_packages": "1",
+      "os_id": "6960091320",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136191830972",
+      "emitted_packages": "1",
+      "os_id": "6960093221",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161058581",
+      "emitted_packages": "1",
+      "os_id": "6960118594",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136181956079",
+      "emitted_packages": "1",
+      "os_id": "6960123590",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136140301748",
+      "emitted_packages": "1",
+      "os_id": "6960139955",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136162350915",
+      "emitted_packages": "1",
+      "os_id": "6960145474",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136183130441",
+      "emitted_packages": "1",
+      "os_id": "6960150466",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136170054754",
+      "emitted_packages": "1",
+      "os_id": "6960150783",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136180956275",
+      "emitted_packages": "1",
+      "os_id": "6960154994",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136173069929",
+      "emitted_packages": "1",
+      "os_id": "6960180216",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172246299",
+      "emitted_packages": "1",
+      "os_id": "6960180765",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136181396820",
+      "emitted_packages": "1",
+      "os_id": "6960185831",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161673695",
+      "emitted_packages": "1",
+      "os_id": "6960209196",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172117921",
+      "emitted_packages": "1",
+      "os_id": "6960209513",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172667305",
+      "emitted_packages": "1",
+      "os_id": "6960210622",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136500282666",
+      "emitted_packages": "1",
+      "os_id": "6954155983",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136222351025",
+      "emitted_packages": "1",
+      "os_id": "6954198720",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136493415931",
+      "emitted_packages": "1",
+      "os_id": "6954215796",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136503263137",
+      "emitted_packages": "1",
+      "os_id": "6954216614",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136511087727",
+      "emitted_packages": "1",
+      "os_id": "6954218585",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136210540677",
+      "emitted_packages": "1",
+      "os_id": "6954236844",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136502077964",
+      "emitted_packages": "1",
+      "os_id": "6954245325",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136483080515",
+      "emitted_packages": "1",
+      "os_id": "6954273395",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136211357351",
+      "emitted_packages": "1",
+      "os_id": "6954292435",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136491150869",
+      "emitted_packages": "1",
+      "os_id": "6954308185",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136531952514",
+      "emitted_packages": "1",
+      "os_id": "6954313601",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136480325099",
+      "emitted_packages": "1",
+      "os_id": "6954331613",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136511619098",
+      "emitted_packages": "1",
+      "os_id": "6954338915",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136211035314",
+      "emitted_packages": "1",
+      "os_id": "6954351994",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136513408382",
+      "emitted_packages": "1",
+      "os_id": "6954364325",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136533162156",
+      "emitted_packages": "1",
+      "os_id": "6954366156",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136522640190",
+      "emitted_packages": "1",
+      "os_id": "6954368864",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136513505836",
+      "emitted_packages": "1",
+      "os_id": "6954369004",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136530289564",
+      "emitted_packages": "1",
+      "os_id": "6954369365",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136533208235",
+      "emitted_packages": "1",
+      "os_id": "6954370905",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136490146776",
+      "emitted_packages": "1",
+      "os_id": "6954390586",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136502141602",
+      "emitted_packages": "1",
+      "os_id": "6954393390",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136132533974",
+      "emitted_packages": "1",
+      "os_id": "6931329296",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136132951864",
+      "emitted_packages": "1",
+      "os_id": "6931331702",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136152518385",
+      "emitted_packages": "1",
+      "os_id": "6931333905",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136150015696",
+      "emitted_packages": "1",
+      "os_id": "6931337980",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136162744809",
+      "emitted_packages": "1",
+      "os_id": "6931344265",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161344740",
+      "emitted_packages": "1",
+      "os_id": "6931348303",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136183242149",
+      "emitted_packages": "1",
+      "os_id": "6931354426",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136132042598",
+      "emitted_packages": "1",
+      "os_id": "6931360166",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136143548541",
+      "emitted_packages": "1",
+      "os_id": "6931364882",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136142347250",
+      "emitted_packages": "1",
+      "os_id": "6931368216",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136143019842",
+      "emitted_packages": "1",
+      "os_id": "6931369255",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136150459315",
+      "emitted_packages": "1",
+      "os_id": "6931372453",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172732368",
+      "emitted_packages": "1",
+      "os_id": "6931379501",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136131913433",
+      "emitted_packages": "1",
+      "os_id": "6931389710",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136142845529",
+      "emitted_packages": "1",
+      "os_id": "6931396275",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136162222051",
+      "emitted_packages": "1",
+      "os_id": "6931401584",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161497738",
+      "emitted_packages": "1",
+      "os_id": "6931405412",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136162930207",
+      "emitted_packages": "1",
+      "os_id": "6931406274",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136131124885",
+      "emitted_packages": "1",
+      "os_id": "6931417345",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136130705012",
+      "emitted_packages": "1",
+      "os_id": "6931423833",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136152487911",
+      "emitted_packages": "1",
+      "os_id": "6931428420",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136171993429",
+      "emitted_packages": "1",
+      "os_id": "6931437144",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136170966258",
+      "emitted_packages": "1",
+      "os_id": "6931439863",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172886805",
+      "emitted_packages": "1",
+      "os_id": "6931440165",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136180750914",
+      "emitted_packages": "1",
+      "os_id": "6931443444",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136153134981",
+      "emitted_packages": "1",
+      "os_id": "6931452964",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136141688371",
+      "emitted_packages": "1",
+      "os_id": "6931454250",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136143242072",
+      "emitted_packages": "1",
+      "os_id": "6931456070",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136161904647",
+      "emitted_packages": "1",
+      "os_id": "6931461390",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136162567674",
+      "emitted_packages": "1",
+      "os_id": "6931463641",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172241337",
+      "emitted_packages": "1",
+      "os_id": "6931468493",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136193248869",
+      "emitted_packages": "1",
+      "os_id": "6931472785",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136180249097",
+      "emitted_packages": "1",
+      "os_id": "6931474060",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136142736393",
+      "emitted_packages": "1",
+      "os_id": "6931485794",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136142702514",
+      "emitted_packages": "1",
+      "os_id": "6931486730",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136153596640",
+      "emitted_packages": "1",
+      "os_id": "6931488266",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136163040722",
+      "emitted_packages": "1",
+      "os_id": "6931491534",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136172273581",
+      "emitted_packages": "1",
+      "os_id": "6931497941",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136171818196",
+      "emitted_packages": "1",
+      "os_id": "6931499201",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136182641104",
+      "emitted_packages": "1",
+      "os_id": "6931500730",
+      "withdrawn_packages": "-"
+    },
+    {
+      "reference": "1136132946716",
+      "emitted_packages": "1",
+      "os_id": "6931505674",
+      "withdrawn_packages": "-"
+    }
+  ],
+  "client": {
+    "address": "QUILICURA - LINCOYAN 9825 9825 ",
+    "name_person_charge": "",
+    "seller_name": "ENVIAME LATAM SPA",
+    "client_name": "ENVIAME LATAM SPA",
+    "firma": "",
+    "account": "76669508-1-8"
+  },
+  "create_date_document": "2023-08-22T16:56:55.000Z",
+  "document_id": "MR15300474-1816423",
+  "carga": {
+    "date": "03/06/2021 11:45",
+    "quantity_os": "1018",
+    "quantity_packages": "-"
+  },
+  "retiro_id": "15300474"
+}
